@@ -1,0 +1,97 @@
+p {
+	font-family: 'Indie Flower', cursive;
+	font-size:50px;
+}
+
+h2 {
+	font-family: 'Frijole', cursive;	
+}
+body {
+	background-color:#42ffaa;
+}
+
+#Downhill {
+	height: 50%;
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+}
+
+li a {
+	font-family: Arial;
+	color: blue;
+	font-size: 20px;
+	height: 80px;
+	background-color:blue;
+
+}
+
+body{
+	background-image: url("../bilder/teg.jpg");
+	background-size: cover; 
+	background-repeat: no-repeat;
+	min-height: 100vh;
+	position: relative;	
+}
+
+#TS {
+	
+    top: 0px;
+    right: 0px;
+    width:60px; 
+    height:60px;
+}
+
+#bikes {
+	height: 40%;
+	width: 40%;
+	display: block;
+	margin: 0 auto;
+}
+
+p {
+	color:red;
+}
+
+#seb {
+	height:20%;
+	width:20%;
+	margin: auto;
+	position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    border: 3px solid #ff4141;
+    
+}
+h1{
+	font-size: 15px;
+	color:red;
+}
+ul{
+	color:red;
+	font-size:20px;
+}
+h2{
+	color:red;
+	font-size: 25px;
+}
+#bg{
+	height:250px; 
+	width:400px;
+	float: right;
+margin-left: 0px 0px 0px 30px;
+border: 3px solid #ff4141;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
